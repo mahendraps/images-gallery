@@ -1,11 +1,11 @@
 {
-    "gitlens.views.commits.pullRequests.enabled": true,
-    "gitlens.codeLens.enabled": true,
-
     "eslint.validate": [
         "html",
         "javascript",
         "javascriptreact"
 
-    ]
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    }
 }
