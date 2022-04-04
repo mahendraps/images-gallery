@@ -1,6 +1,6 @@
 {
     "gitlens.views.commits.pullRequests.enabled": true,
-    "gitlens.codeLens.enabled": true
+    "gitlens.codeLens.enabled": true,
 
     "eslint.validate": [
         "html",
